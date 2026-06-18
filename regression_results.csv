@@ -1,4 +1,0 @@
-Model,MAE (min),RMSE (min),R2
-Linear Regression,10.199,12.94,0.363
-Random Forest Regressor,9.747,12.408,0.414
-XGBoost Regressor,9.745,12.402,0.415
